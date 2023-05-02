@@ -1,13 +1,9 @@
-### Hi there 👋
+### Olá eu sou o Patrick Marques 👋
 
-<!--
-**patrickcs1/patrickcs1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 Hoje trabalho com PROGRESS 4GL
+- 🌱 Estou estudando ANGULAR/Unreal Engine 5
+- 📫 Contate-me no email: patrickam_marques@outlook.com
+- 😄 Pronomes:ele/dele 
 
-- 🔭 I’m currently working on PROGRESS $GL
-- 🌱 I’m currently learning ANGULAR
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+

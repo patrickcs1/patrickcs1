@@ -3,7 +3,7 @@
 
 - 🔭 Hoje trabalho com PROGRESS 4GL
 - 🌱 Estou estudando ANGULAR/Unreal Engine 5
-- 📫 Contate-me no email: patrickam_marques@outlook.com
+- 📫 Contate-me no email: patrickzx360@gmail.com
 - 😄 Pronomes:ele/dele 
 
 
